@@ -1,4 +1,5 @@
 package test;
-public interface Notify{
+
+public interface Notify {
     public void call();
 }
